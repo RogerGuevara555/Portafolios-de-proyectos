@@ -1,0 +1,3 @@
+EL cerito y cruz tiene una función que depende de las expresiones regulares que programé,
+pero encontré una forma más optima de realizar el proceso que las requería, por lo que ya no 
+son necesarias.
