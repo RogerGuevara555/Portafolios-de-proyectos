@@ -1,0 +1,1 @@
+Esta calculadora efectúa operaciones en forma de combinada en un str. No está del todo funcional ya que tiene errores a la hora de usar muchos paréntesis
