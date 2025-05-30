@@ -1,0 +1,8 @@
+Conocen el teorema que plantea que cualquier monto de dinero mayor a 
+$7 puede ser pagado con billetes de $5 y $3? Pues bueno, ahora lo conocen.
+
+Mi profesor de programación había pedido que a partir de una función
+que retornaba una lista con todos los billetes necesarios de $5 y $3
+para pagar un N montón de dinero. Por lo que decidí cumplir su tarea 
+y hacer mi propia versión de su código, para practicar con la 
+recursividad.
