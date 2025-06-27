@@ -1,2 +1,2 @@
 # Catalogo-de-proyectos
-Aquí presentaré todos mis proyectos realizados en mi ruta de aprendizaje como programador
+Aquí presentaré algunos proyectos personales hechos con Python para practicar mi POO
